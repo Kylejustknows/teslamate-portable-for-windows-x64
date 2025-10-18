@@ -54,7 +54,7 @@
 run.bat → QEMU (最小化特性) → Alpine Linux（最小安装） → Docker → TeslaMate + MCU2
 ```
 
-- 初始内存占用: ~1GB
+- 初始内存占用: ~1.5GB
 - 稳定后内存占用: ~350MB (virtio_balloon 生效后)
 - CPU 占用: 接近 0%
 
@@ -121,7 +121,7 @@ For detailed usage, please refer to [TeslaMate Official Documentation](https://d
 run.bat → QEMU (minimal features) → Alpine Linux (minimal install) → Docker → TeslaMate + MCU2
 ```
 
-- Initial memory: ~1GB
+- Initial memory: ~1.5GB
 - Stabilized memory: ~350MB (after virtio_balloon kicks in)
 - CPU usage: Near 0%
 
