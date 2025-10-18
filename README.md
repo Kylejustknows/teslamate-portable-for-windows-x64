@@ -1,4 +1,4 @@
-# TeslaMate Portable for Windows
+# TeslaMate Portable for Windows (Qemu+Docker+Teslamate)
 
 [English](#english) | [中文](#中文)
 
@@ -10,7 +10,7 @@
 
 这是一个 Windows版 **开箱即用**的 TeslaMate 便携版本，专为懒惰的，或者不熟悉 Docker 或命令行的特斯拉车主打包使用。
 
-我最初打包原因是，能运行Docker的游戏主机等都不方便24*7常年不断电运行，而能常年运行的服务器/云主机等又无法安装Docker，加上teslamate数据迁移非常麻烦，所以把它整个便携化
+我最初打包原因是，我的能运行Docker的游戏主机等都不方便24*7常年不断电运行，而能常年运行的服务器/云主机等又无法安装Docker，加上teslamate数据迁移非常麻烦，所以把它整个便携化
 
 ### 特点
 
@@ -77,7 +77,7 @@ run.bat → QEMU (最小化特性) → Alpine Linux（最小安装） → Docker
 
 A **1-click-ready-to-use** Windows portable version of TeslaMate for lazy folks / Tesla owners unfamiliar with Docker or command-line tools.
 
-(I originally created this package because dockerable gaming PCs can't run 24/7 for continuous monitoring, while servers and cloud hosts that can run 24/7 often can't install Docker. Plus, TeslaMate data migration is quite cumbersome, so I packed the entire thing into portable.)
+I originally created this package for myself, because dockerable gaming PCs can't run 24/7, while servers and cloud hosts that can run 24/7 often can't install Docker. Plus, TeslaMate data migration is quite cumbersome, so I packed the entire thing into a portable folder.
 
 ### Features
 
