@@ -77,7 +77,7 @@ run.bat → QEMU (最小化特性) → Alpine Linux（最小安装） → Docker
 
 A **1-click-ready-to-use** Windows portable version of TeslaMate for lazy folks / Tesla owners unfamiliar with Docker or command-line tools.
 
-(I originally created this package because dockerable gaming PCs can't run 24/7 for continuous monitoring, while servers and cloud hosts that can run 24/7 often can't install Docker. Plus, TeslaMate data migration is quite cumbersome, so I made the entire things portable.)
+(I originally created this package because dockerable gaming PCs can't run 24/7 for continuous monitoring, while servers and cloud hosts that can run 24/7 often can't install Docker. Plus, TeslaMate data migration is quite cumbersome, so I packed the entire thing into portable.)
 
 ### Features
 
